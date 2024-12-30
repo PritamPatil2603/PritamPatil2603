@@ -1,42 +1,57 @@
 # 👋 Hi, I'm Pritam Patil
 
-**Machine Learning Engineer at Accenture**
+### 🤖 Generative AI & Machine Learning Engineer
 
-Welcome to my GitHub profile! I am a passionate and dedicated Machine Learning Engineer with a strong background in developing innovative solutions and leveraging cutting-edge technologies to solve complex problems. Here, you'll find a collection of my projects, contributions, and learning experiences.
+I'm passionate about building AI-powered solutions that solve real-world problems. With 3+ years of experience, I specialize in developing RAG systems, LLM applications, and AI voice agents.
 
-## 🚀 About Me
+## 🛠️ Tech Stack
 
-- 🌱 **Currently Learning**: Advanced Deep Learning, Reinforcement Learning, and Cloud AI Services.
-- 💼 **Work**: As a Machine Learning Engineer at Accenture, I work on a variety of projects involving natural language processing, computer vision, and predictive analytics to drive business value.
-- 💬 **Ask Me About**: Machine Learning, Deep Learning, NLP, Data Science, and AI.
-- 🤝 **Looking to Collaborate On**: Open-source AI/ML projects, research papers, and innovative applications of machine learning.
-- 📫 **How to Reach Me**: You can connect with me on https://www.linkedin.com/in/pritam-patil-0a6552166) or email me at pritam1998patil@gmailo.com
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I love exploring the intersection of art and technology, and I often experiment with generative art using neural networks.
+- **Languages:** Python, JavaScript (Node.js, React.js)
+- **AI/ML:** Large Language Models (LLMs), HuggingFace Transformers, LangChain, RAG, NLP
+- **Cloud & DevOps:** AWS (SageMaker, Textract, OpenSearch, S3, Step Functions)
+- **Web Development:** React.js, Node.js, FastAPI, PostgreSQL
+- **AI Tools:** OpenAI API, Claude, ElevenLabs, Pinecone, Make.com
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
 
-![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PritamPatil2603&show_icons=true&theme=radical)
+### [AI Voice Agent for Healthcare](https://futureaichatbot.com)
+An intelligent voice agent that manages patient calls, appointments, and calendar integrations.
+- 🎯 Automated patient call handling using GPT-4 & ElevenLabs
+- 📅 Integrated with GoHighLevel CRM for smart appointment scheduling
+- 📊 Processes 500+ monthly bookings with 25% reduced no-show rates
 
-## 🛠️ Languages and Tools
+### [AI-Powered CRM System](https://futureaimarketing.in)
+Multi-channel chatbot system integrated with CRM for automated lead management.
+- 💬 Deployed across Instagram, Facebook, and web platforms
+- 📈 Improved lead conversion rates by 25%
+- 🤖 Handles 500+ daily customer interactions
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+## 💼 Professional Experience
 
-## 📚 Featured Projects
+Currently working at **Accenture** as a Generative AI & ML Engineer, where I:
+- Built enterprise RAG pipelines improving accuracy by 30%
+- Process 1TB+ monthly data using AWS pipelines
+- Automated PDF processing for 1000+ documents daily
 
-### [Text-to-Speech App]
-### [Text2Web]
+## 🎓 Education & Certifications
 
+- BTech from Institute of Chemical Technology (ICT)
+- DeepLearning.AI Generative AI Specialist
+- AWS Certified Machine Learning – Specialty
+- LangChain for LLM Application Development
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's make something amazing together!
+## 🌱 Current Interests
+
+- Building AI agents for software development automation
+- Exploring advanced LLM applications
+- Mentoring emerging engineers in AI technologies
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://linkedin.com/in/pritam-patil-0a6552166/)
+- [Email](mailto:pritam1998patil@gmail.com)
+
+![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+---
+*Building the future with AI, one commit at a time* 🚀
