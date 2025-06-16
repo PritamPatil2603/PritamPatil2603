@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritam1998patil@gmail.com)
 
 ## 🚀 About Me
-I'm a Generative AI & Machine Learning Engineer with 3+ years of experience building cutting-edge AI solutions. Currently working at Accenture, I specialize in developing enterprise-grade machine learning pipelines, RAG systems, and AI-powered applications that transform how businesses operate.
+I'm a Generative AI & Machine Learning Engineer with experience building cutting-edge AI solutions. Currently working at Accenture, I specialize in developing enterprise-grade machine learning pipelines, RAG systems, and AI-powered applications that transform how businesses operate.
 
 ### 🛠️ Tech Stack
 
